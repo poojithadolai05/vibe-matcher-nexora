@@ -1,5 +1,5 @@
 # 🎯 Vibe Matcher — Nexora AI Internship Prototype
-
+[🧠 **Open in Google Colab**](https://colab.research.google.com/drive/1eXlXAwc1d42Gq7BmdtVY1hjuPNA9Ktfe?usp=sharing)
 > A hybrid **vibe-based fashion recommender system** built for the Nexora AI Internship.  
 > Uses **TF-IDF embeddings**, **OpenAI’s text-embedding-ada-002**, and **cosine similarity**  
 > to match products to mood-based queries like *“energetic urban chic.”*
